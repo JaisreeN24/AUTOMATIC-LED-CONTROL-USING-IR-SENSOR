@@ -107,6 +107,7 @@ CASE 1: LED ON
 
 
 CASE 2: LED OFF
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/47948240-5fde-4c34-b91c-95a8ace871a2" />
 
 ---
